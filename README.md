@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedmeen&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Talk-Bout/Frontend">
+<!-- <a href="https://github.com/Talk-Bout/Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Talk-Bout&repo=Frontend&theme=react&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leedmeen&repo=miniproject_team18_frontend&theme=react" />
-</a>
+</a> -->
