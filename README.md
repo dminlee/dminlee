@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leedmeen/leedmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,9 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedmeen&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-![React](https://img.shields.io/badge/-React-3fcbd1) ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f) ![Python](https://img.shields.io/badge/-Python-306998)
+![React](https://img.shields.io/badge/-React-3fcbd1) ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f) ![Python](https://img.shields.io/badge/-Python-306998)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leedmeen@gmail.com)](mailto:leedmeen@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03c75a?style=flat-square&logo=Naver&logoColor=white&link=mailto:leedmeen@naver.com)](mailto:leedmeen@naver.com)
 
 <!-- <a href="https://github.com/Talk-Bout/Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Talk-Bout&repo=Frontend&theme=react&show_owner=true" />
