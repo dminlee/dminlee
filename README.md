@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedmeen&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+![React](https://img.shields.io/badge/-React-3fcbd1) ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f) ![Python](https://img.shields.io/badge/-Python-306998)
+
 <!-- <a href="https://github.com/Talk-Bout/Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Talk-Bout&repo=Frontend&theme=react&show_owner=true" />
 </a>
