@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-3fcbd1) ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f) ![Python](https://img.shields.io/badge/-Python-306998)<br>
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leedmeen@gmail.com)](mailto:leedmeen@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03c75a?style=flat-square&logo=Naver&logoColor=white&link=mailto:leedmeen@naver.com)](mailto:leedmeen@naver.com)
+<a href="https://di-story.tistory.com">
+  <img src="https://img.shields.io/badge/-Tistory-4F1F12" />
+</a>
 
 <!-- <a href="https://github.com/Talk-Bout/Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Talk-Bout&repo=Frontend&theme=react&show_owner=true" />
