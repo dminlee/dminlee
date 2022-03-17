@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedmeen&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dminlee&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![React](https://img.shields.io/badge/-React-3fcbd1) ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f) ![Python](https://img.shields.io/badge/-Python-306998)<br>
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leedmeen@gmail.com)](mailto:leedmeen@gmail.com)
